@@ -37,7 +37,6 @@ appear as if they are "teleporting" if they have a high ping as their position w
 - Server and client connection
 - Server recieves and sends data between the clients
 - Each client has a "ClientID" which is used to differenciate between the player and other players
-- 
 
 
 ### Todo
